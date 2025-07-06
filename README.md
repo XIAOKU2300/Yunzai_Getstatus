@@ -1,4 +1,4 @@
-# 🎐 鸣潮流量查询插件（YunzaiJS 插件）
+# 🎐 鸣潮流量查询插件（适用于 Yunzai 的插件）
 
 一个用于查询鸣潮 API 流量使用情况的 YunzaiJS 插件，支持自动登录并显示简洁统计数据，仅限主人使用。
 
@@ -23,7 +23,7 @@ git clone https://github.com/yourname/usage-status.git
 
 ### 方式二：手动复制
 
-将 `usage-status.js` 文件放入任意插件目录下（如：`plugins/usage-status/`），重启 Yunzai 即可。
+将 `usage-status.js` 文件放入插件目录下（如：`plugins/example/`），重启 Yunzai 即可。
 
 ---
 
@@ -54,7 +54,6 @@ const password = '你的密码'
 
 ## 💡 注意事项
 
-- 插件默认只允许 QQ：`1982975523` 使用，如需更换请修改代码中的判断。
 - 插件不依赖 cheerio、axios，仅使用 `node-fetch` 和正则提取 HTML。
 - 如果查询失败，请检查账号密码是否正确，或接口是否变动。
 
@@ -68,6 +67,6 @@ const password = '你的密码'
 
 ## 🙋‍♂️ 作者
 
-- 作者：Tao（Zifan）
+- 作者：Fansakura
 - QQ：1982975523
-- 插件交流群：暂无
+- 插件交流群：fannet.asia
