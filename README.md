@@ -18,7 +18,7 @@
 
 ```bash
 cd plugins/example/
-git clone https://github.com/XIAOKU2300/usage-status.git
+git clone https://github.com/XIAOKU2300/Yunzai_Getstatus.git
 ```
 
 ### 方式二：手动复制
