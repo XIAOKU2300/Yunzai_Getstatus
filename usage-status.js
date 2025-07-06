@@ -41,7 +41,7 @@ export class UsageStatusPlugin extends plugin {
       throw new Error('未配置账号或密码，请在插件配置中填写')
     }
 
-    const loginUrl = 'http://loping151.com:9151/login'
+    const loginUrl = '请自己联系小维获取相关URL'
     const formBody = new URLSearchParams()
     formBody.append('username', this.config.account)
     formBody.append('password', this.config.password)
