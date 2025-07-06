@@ -17,8 +17,8 @@
 ### 方式一：通过 Git 下载
 
 ```bash
-cd plugins/
-git clone https://github.com/yourname/usage-status.git
+cd plugins/example/
+git clone https://github.com/XIAOKU2300/usage-status.git
 ```
 
 ### 方式二：手动复制
