@@ -83,7 +83,7 @@ export class UsageStatusPlugin extends plugin {
 
     const cookie = await this.getLoginCookie()
 
-    const usageUrl = 'http://loping151.com:9151/usage'
+    const usageUrl = '请自己联系小维获取URL'
     const res = await fetch(usageUrl, {
       headers: {
         'Cookie': cookie,
